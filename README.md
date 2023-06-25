@@ -1,2 +1,2 @@
-# terraform_for_each
+# terraform-for-each
 Terraform for each example
